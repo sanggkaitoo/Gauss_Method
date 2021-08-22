@@ -1,0 +1,13 @@
+/Users/sangphungmanh/Document/Hust/HTTTQL/GTS/obj/Debug/netcoreapp3.1/Gauss_Final.csproj.AssemblyReference.cache
+/Users/sangphungmanh/Document/Hust/HTTTQL/GTS/obj/Debug/netcoreapp3.1/Gauss_Final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sangphungmanh/Document/Hust/HTTTQL/GTS/obj/Debug/netcoreapp3.1/Gauss_Final.AssemblyInfoInputs.cache
+/Users/sangphungmanh/Document/Hust/HTTTQL/GTS/obj/Debug/netcoreapp3.1/Gauss_Final.AssemblyInfo.cs
+/Users/sangphungmanh/Document/Hust/HTTTQL/GTS/obj/Debug/netcoreapp3.1/Gauss_Final.csproj.CoreCompileInputs.cache
+/Users/sangphungmanh/Document/Hust/HTTTQL/GTS/bin/Debug/netcoreapp3.1/Gauss_Final.deps.json
+/Users/sangphungmanh/Document/Hust/HTTTQL/GTS/bin/Debug/netcoreapp3.1/Gauss_Final.runtimeconfig.json
+/Users/sangphungmanh/Document/Hust/HTTTQL/GTS/bin/Debug/netcoreapp3.1/Gauss_Final.runtimeconfig.dev.json
+/Users/sangphungmanh/Document/Hust/HTTTQL/GTS/bin/Debug/netcoreapp3.1/Gauss_Final.dll
+/Users/sangphungmanh/Document/Hust/HTTTQL/GTS/bin/Debug/netcoreapp3.1/Gauss_Final.pdb
+/Users/sangphungmanh/Document/Hust/HTTTQL/GTS/obj/Debug/netcoreapp3.1/Gauss_Final.dll
+/Users/sangphungmanh/Document/Hust/HTTTQL/GTS/obj/Debug/netcoreapp3.1/Gauss_Final.pdb
+/Users/sangphungmanh/Document/Hust/HTTTQL/GTS/obj/Debug/netcoreapp3.1/Gauss_Final.genruntimeconfig.cache
